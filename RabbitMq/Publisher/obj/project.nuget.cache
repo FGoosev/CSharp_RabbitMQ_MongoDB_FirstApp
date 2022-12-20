@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "MJ/y0leCeqLYyQbndLWFDDyaPLOpNzzl6Lwf2qN9sPvBq5HsC7j8m6Um9X8xyYMysKtZihqM+ZHWK8omGvXM8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Александр\\source\\repos\\RabbitMq\\Publisher\\Publisher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Александр\\.nuget\\packages\\mongodb.bson\\2.18.0\\mongodb.bson.2.18.0.nupkg.sha512",
+    "C:\\Users\\Александр\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\Александр\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Александр\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\Александр\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
